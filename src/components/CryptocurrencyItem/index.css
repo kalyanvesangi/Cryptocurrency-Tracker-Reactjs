@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.currency-logo {
+  height: 25px;
+  width: 25px;
+  margin-top: 12px;
+}
+.list-items {
+  color: white;
+}
+.list-item-container {
+  display: flex;
+  justify-content: space-around;
+}
